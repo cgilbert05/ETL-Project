@@ -1,0 +1,993 @@
+title,year,metacritc_rating,netflix,amazon_prime,hulu
+Casablanca,1943,100,,,
+Notorious,1946,100,,,
+My Left Foot,1990,99,,,
+Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,99,,,
+Gone with the Wind,1940,99,,,
+"4 Months, 3 Weeks and 2 Days",2008,99,,,
+Fantasia,1940,97,,,
+Spirited Away,2002,97,,,
+My Fair Lady,1964,97,,,
+I Am Not Your Negro,2016,97,,,
+Killer of Sheep,2007,97,,,
+Snow White and the Seven Dwarfs,1938,96,,,
+Portrait of a Lady on Fire,2019,96,,,
+The Hurt Locker,2009,96,,,
+Amazing Grace,2018,96,,,
+The Servant,1964,96,,,
+Shoah: Four Sisters,2018,95,,,
+Sita Sings the Blues,2009,95,,,
+Crumb,1995,95,,,
+One More Time with Feeling,2016,95,,,
+Platoon,1987,95,,,
+Timbuktu,2015,94,,,
+The Souvenir,2019,94,,,
+Maborosi,1997,94,,,
+Werckmeister Harmonies,2001,94,,,
+The Look of Silence,2015,94,,,
+The Rider,2018,94,,,
+Moolaadé,2004,94,,,
+Atanarjuat: The Fast Runner,2002,94,,,
+Gavagai,2018,94,,,
+After Life,1999,94,,,
+The African Queen,1952,94,,,
+A Bread Factory Part Two: Walk With Me a While,2018,94,,,
+The Ladykillers,1956,94,,,
+Stories We Tell,2013,94,,,
+A Bread Factory Part One: For the Sake of Gold,2018,94,,,
+Call Me by Your Name,2017,95,,,t
+Lady Bird,2017,96,,t,t
+Dunkirk,2017,96,,,t
+The Godfather,1972,100,,,t
+The Florida Project,2017,94,,t,t
+The Lord of the Rings: The Fellowship of the Ring,2001,94,,,t
+Inside Out,2015,96,,,t
+La La Land,2016,95,,,t
+The Lord of the Rings: The Return of the King,2003,96,,,t
+Ran,1985,98,,,t
+Jafar Panahi's Taxi,2015,94,,,
+Beau Travail,2000,94,,,
+EX LIBRIS: The New York Public Library,2017,94,,,
+The Gatekeepers,2013,93,,,
+Nostalgia for the Light,2011,93,,,
+Ida,2014,93,,,
+13th,2016,93,,,
+Gett: The Trial of Viviane Amsalem,2015,93,,,
+I Called Him Morgan,2017,93,,,
+Close Encounters of the Third Kind,1977,93,,,
+My Voyage to Italy,2001,93,,,
+Paths of the Soul,2016,93,,,
+It's Such a Beautiful Day,2012,93,,,
+My Perestroika,2011,93,,,
+This Is Not a Film,2012,93,,,
+Topsy-Turvy,1999,93,,,
+A Prophet,2010,93,,,
+Hard to Be a God,2015,93,,,
+Cold War,2018,93,,,
+The Circus,1929,93,,,
+The Act of Killing,2013,93,,,
+Star Wars: Episode IV - A New Hope,1977,92,,,
+Minding the Gap,2018,92,,,
+The Best of Youth,2005,92,,,
+Two-Lane Blacktop,1971,92,,,
+Force of Evil,1949,92,,,
+Still Walking,2009,92,,,
+Gangs of Wasseypur,2015,92,,,
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,2006,92,,,
+The Tale of The Princess Kaguya,2014,92,,,
+National Gallery,2014,92,,,
+It's a Wonderful Life,1947,92,,,
+Long Day's Journey Into Night,2019,92,,,
+Phoenix,2015,92,,,
+Goodbye Solo,2009,92,,,
+Deep Red,1976,92,,,
+The Farewell,2019,92,,,
+Goodfellas,1990,91,,,
+Dead Souls,2018,91,,,
+Zama,2018,91,,,
+Parasite,2019,91,,,
+The Arbor,2011,91,,,
+Democrats,2015,91,,,
+Y Tu Mamá También,2002,91,,,
+Paddington 2,2018,91,,,
+The Death of Stalin,2018,91,,,
+In Transit,2017,91,,,
+Citizenfour,2014,91,,,
+"Three Billboards Outside Ebbing, Missouri",2017,91,,,t
+Phantom Thread,2017,93,,,t
+Blade Runner,1982,91,,,t
+The Lion King,1994,91,,,t
+Mad Max: Fury Road,2015,93,,,t
+The Incredibles,2004,93,,,t
+Time Out,2002,91,,,
+The Blue Angel (re-release),2001,91,,,
+Away from Her,2007,91,,,
+The Fallen Idol (re-release),2006,91,,,
+Once Upon a Time in... Hollywood,2019,91,,,
+45365,2010,91,,,
+Nobody Knows,2005,91,,,
+Life Is Sweet,1991,91,,,
+L'Enfant (The Child),2006,91,,,
+Birdman or (The Unexpected Virtue of Ignorance),2014,90,,,
+Poetry,2011,90,,,
+"I Travel Because I Have to, I Come Back Because I Love You",2011,90,,,
+Superman II,1981,90,,,
+Of Men and War,2015,90,,,
+The Farthest,2017,90,,,
+Gomorrah,2009,90,,,
+To Be and to Have,2003,90,,,
+Eraserhead,1978,90,,,
+Medium Cool,1969,90,,,
+About Elly (2009),2015,90,,,
+Goldfinger,1965,90,,,
+En el Séptimo Día (On the Seventh Day),2018,90,,,
+We Are the Best!,2014,90,,,
+My Journey Through French Cinema,2017,90,,,
+Elena,2012,90,,,
+Serpico (re-release),2004,90,,,
+Fateless,2006,90,,,
+The Fog of War: Eleven Lessons from the Life of Robert S. McNamara,2003,90,,,
+Uncle Boonmee Who Can Recall His Past Lives,2011,90,,,
+Cemetery of Splendor,2016,90,,,
+The Kid with a Bike,2012,90,,,
+Harry Potter and the Deathly Hallows: Part 2,2011,90,,,
+The Wicker Man,1974,90,,,
+Particle Fever,2014,90,,,
+Tarnation,2004,90,,,
+Murderball,2005,90,,,
+The Shape of Water,2017,90,,,
+Bisbee '17,2018,90,,,
+The Autobiography of Nicolae Ceausescu,2011,90,,,
+The Duke of Burgundy,2015,90,,,
+My Golden Days,2016,90,,,
+Marooned in Iraq,2003,90,,,
+Diane,2019,90,,,
+An Elephant Sitting Still,2019,90,,,
+The Wind Will Carry Us,2000,90,,,
+To Be or Not to Be,1942,90,,,
+Like Water for Chocolate,1993,90,,,
+Dreamcatcher,2015,90,,,
+42: Forty Two Up,1999,90,,,
+Manakamana,2014,90,,,
+Mission: Impossible – Fallout,2018,90,,,
+Cave of Forgotten Dreams,2011,90,,,
+My Neighbor Totoro,1988,90,,,
+King of the Hill,1993,89,,,
+The Red Turtle,2017,89,,,
+Jaws,1975,90,,,t
+Back to the Future,1985,90,,,t
+The Lord of the Rings: The Two Towers,2002,91,,,t
+Up,2009,91,,,t
+The Deer Hunter,1978,90,,,t
+The Babadook,2014,90,,,t
+Brooklyn,2015,91,,,t
+Sweet Country,2018,91,,t,t
+Mary Poppins,1964,91,,,t
+Brokeback Mountain,2005,90,,,t
+Toy Story 2,1999,91,,,t
+To Kill a Mockingbird,1962,91,,,t
+Slumdog Millionaire,2008,90,,,t
+Ten,2003,89,,,
+I'm Going Home,2002,89,,,
+Of Gods and Men,2011,89,,,
+Museo,2018,89,,,
+Nobody's Fool,1995,89,,,
+Stranger Than Paradise,1984,89,,,
+The Beaches of Agnès,2009,89,,,
+Das Boot,1982,89,,,
+Drug War,2013,89,,,
+The Umbrellas of Cherbourg (re-released),2004,89,,,
+Under the Sand,2001,89,,,
+The Death of Mr. Lazarescu,2006,89,,,
+The Wild Pear Tree,2019,89,,,
+Nausicaä of the Valley of the Wind,1985,89,,,
+Los Angeles Plays Itself,2004,89,,,
+This Is England,2007,89,,,
+Springtime in a Small Town,2004,89,,,
+Sweet Sixteen,2003,89,,,
+The Son,2003,89,,,
+Ponyo,2009,89,,,
+Black Mother,2019,89,,,
+Ernest & Célestine,2014,89,,,
+Last Train Home,2010,89,,,
+Andy Warhol: A Documentary Film,2006,89,,,
+Persona,1967,89,,,
+Flight of the Red Balloon,2008,89,,,
+Raiders of the Lost Ark,1981,89,,,
+The Salesman,2017,89,,,
+Blow Out,1981,89,,,
+City of Life and Death,2011,89,,,
+The Edge of Heaven,2008,89,,,
+Birds of Passage,2019,89,,,
+Ilo Ilo,2014,89,,,
+Lebanon,2010,89,,,
+The Treasure,2016,89,,,
+The Endurance,2001,89,,,
+Girlhood,2015,89,,,
+In the Mood for Love,2001,89,,,
+Let's Get Lost,1989,89,,,
+Offside,2007,89,,,
+The Ornithologist,2017,89,,,
+April and the Extraordinary World,2016,88,,,
+Festival Express,2004,88,,,
+"Spring, Summer, Fall, Winter... and Spring",2004,88,,,
+Rat Film,2017,88,,,
+Tinker Tailor Soldier Spy,2011,88,,,
+Harakiri,1964,88,,,
+Vincere,2010,88,,,
+Street Fight,2006,88,,,
+Ash Is Purest White,2019,88,,,
+Love and Diane,2003,88,,,
+Domestic Violence,2002,88,,,
+Hero,2004,88,,,
+The Fabulous Baker Boys,1989,88,,,
+My Life as a Zucchini,2017,88,,,
+The Intruder,2005,88,,,
+Forbidden Lie$,2009,88,,,
+Behemoth,2017,88,,,
+The Sun,2009,88,,,
+Alexandra,2008,88,,,
+Star Wars: Episode VIII - The Last Jedi,2017,88,,,
+The Host,2007,88,,,
+Starless Dreams,2017,88,,,
+Summer Hours,2009,88,,,
+Grisbi (re-release),2003,88,,,
+Baby Driver,2017,89,,,t
+The Silence of the Lambs,1991,88,,,t
+The Departed,2006,88,,,t
+The Big Sick,2017,89,,t,t
+American Beauty,1999,89,,t,t
+Knocked Up,2007,89,,,t
+Fargo,1996,88,,t,t
+Boogie Nights,1997,89,,,t
+Atonement,2007,88,,,t
+The Pianist,2002,89,,,t
+Amy,2015,89,t,,t
+Meek's Cutoff,2011,88,,,
+The Long Day Closes,1993,88,,,
+From Russia with Love,1964,88,,,
+Since Otar Left,2004,88,,,
+The Circle,2001,88,,,
+Paragraph 175,2000,88,,,
+Atlantic City,1981,88,,,
+After the Storm,2017,88,,,
+The Big Risk,2005,88,,,
+Revanche,2009,88,,,
+The Man Without a Past,2003,88,,,
+Calle 54,2000,88,,,
+Horse Money,2015,88,,,
+Up the Yangtze,2008,88,,,
+High Hopes,1989,88,,,
+Booksmart,2019,88,,,
+Séraphine,2009,88,,,
+49 Up,2006,88,,,
+Harmonium,2017,88,,,
+Fireworks Wednesday (2006),2016,88,,,
+Distant,2004,88,,,
+Far From Heaven,2002,88,,,
+Lagaan: Once Upon a Time in India,2002,88,,,
+Prizzi's Honor,1985,88,,,
+Aferim!,2016,88,,,
+War Witch,2013,88,,,
+Toy Story 4,2019,88,,,
+Darwin's Nightmare,2005,88,,,
+My Winnipeg,2008,88,,,
+"Oslo, August 31st",2012,87,,,
+Graduation,2017,87,,,
+Kings & Queen,2005,87,,,
+You Were Never Really Here,2018,87,,,
+Museum Hours,2013,87,,,
+Before the Devil Knows You're Dead,2007,87,,,
+Snowpiercer,2014,87,,,
+Lassie,2006,87,,,
+Dave Chappelle's Block Party,2006,87,,,
+Victor Victoria,1982,87,,,
+The Pinochet Case,2002,87,,,
+The Day I Became a Woman,2001,87,,,
+Rocco and His Brothers (re-release),2002,87,,,
+The Last Black Man in San Francisco,2019,87,,,
+Mutual Appreciation,2006,87,,,
+Stray Dogs,2014,87,,,
+Transit,2019,87,,,
+13 Assassins,2011,87,,,
+Dracula: Pages from a Virgin's Diary,2003,87,,,
+Together,2001,87,,,
+Boxing Gym,2010,87,,,
+The Fool,2015,87,,,
+Everybody Wants Some!!,2016,87,,,
+Custody,2018,87,,,
+Fighter,2001,87,,,
+The Secret of the Grain,2008,87,,,
+Bus 174,2003,87,,,
+Osama,2004,87,,,
+Amores Perros,2001,87,,,
+The Gleaners & I,2001,87,,,
+The Salt of the Earth,2015,87,,,
+Chop Shop,2008,87,,,
+Get Out,2017,87,,,t
+Avatar,2009,87,,,t
+The Iron Giant,1999,88,,,t
+Fantastic Mr. Fox,2009,87,,,t
+Moonrise Kingdom,2012,88,,,t
+One Flew Over the Cuckoo's Nest,1975,87,,,t
+Aliens,1986,88,,,t
+Kiki's Delivery Service,1989,87,,,
+Raising Victor Vargas,2003,87,,,
+'71,2015,87,,,
+Juliet of the Spirits (re-release),2001,87,,,
+The Wind Rises,2013,87,,,
+Neil Young Trunk Show,2010,87,,,
+20 Feet from Stardom,2013,87,,,
+Kurt Cobain: Montage of Heck,2015,87,,,
+My Name Is Albert Ayler,2007,87,,,
+Paranoid Park,2008,87,,,
+La Camioneta: The Journey of One American School Bus,2013,87,,,
+Hugo ,2011,87,,,
+Ixcanul,2016,87,,,
+The Day He Arrives,2012,87,,,
+Hadewijch,2010,87,,,
+Taxidermia,2009,87,,,
+The King of Kong: A Fistful of Quarters,2007,87,,,
+Spider,2002,87,,,
+56 Up,2013,87,,,
+Triad Election,2007,87,,,
+Roll Red Roll,2019,87,,,
+Burning Bush,2014,87,,,
+U2 3D,2008,87,,,
+Hidden,2005,87,,,
+Lake of Fire,2007,87,,,
+Porco Rosso,1992,87,,,
+The Flat,2012,87,,,
+Blind,2015,87,,,
+The Magdalene Sisters,2003,87,,,
+Tyson,2009,87,,,
+The White Diamond,2005,86,,,
+It Follows,2015,86,,,
+The Happiest Day in the Life of Olli Mäki,2017,86,,,
+Sweeney Todd: The Demon Barber of Fleet Street,2007,86,,,
+We the Animals,2018,86,,,
+Monsieur Lazhar,2012,86,,,
+Ava,2018,86,,,
+Nowhere to Hide,2017,86,,,
+Rivers and Tides: Andy Goldsworthy Working with Time,2002,86,,,
+Carmine Street Guitars,2019,86,,,
+Ajami,2010,86,,,
+Viola,2013,86,,,
+Relaxer,2019,86,,,
+Tell No One,2008,86,,,
+The Deep Blue Sea,2012,86,,,
+Ornette: Made in America (1985),2012,86,,,
+"Good Bye, Dragon Inn",2004,86,,,
+Safe Conduct,2002,86,,,
+Star Wars: Episode V - The Empire Strikes Back,1980,86,,,
+Our Beloved Month of August,2010,86,,,
+Sugar,2009,86,,,
+The Wind That Shakes the Barley,2007,86,,,
+The Lobster,2016,86,,,
+Winged Migration,2003,86,,,
+Quince Tree of the Sun,2000,86,,,
+The School of Rock,2003,86,,,
+Life and Nothing More,2018,86,,,
+The Namesake,2007,86,,,
+A Hijacking,2013,86,,,
+In the Family,2012,86,,,
+Cold Comfort Farm,1996,86,,,
+Anvil! The Story of Anvil,2009,86,,,
+The Trip,2011,86,,,
+La Promesse (The Promise),1997,86,,,
+Levitated Mass,2014,86,,,
+A Quiet Place,2018,86,,t,t
+The Post,2017,87,,,t
+2001: A Space Odyssey,1968,86,,,t
+Forrest Gump,1994,86,,,t
+War for the Planet of the Apes,2017,86,,,t
+Creed,2015,86,,,t
+Star Trek,2009,86,,,t
+Pride & Prejudice,2005,86,,,t
+Harry Potter and the Prisoner of Azkaban,2004,86,,,t
+Kill Bill: Vol. 2,2004,87,,,t
+Mulholland Dr.,2001,87,,,t
+Up in the Air,2009,87,,t,t
+Who Framed Roger Rabbit,1988,87,,,t
+Downfall,2005,86,,,
+Rams,2016,86,,,
+Certified Copy,2011,86,,,
+Taxi to the Dark Side,2008,86,,,
+Nuts!,2016,86,,,
+Footnote,2012,86,,,
+Marley,2012,86,,,
+The Agronomist,2004,86,,,
+Touching the Void,2004,86,,,
+To Be Heard,2011,86,,,
+Embrace of the Serpent,2016,86,,,
+Sieranevada,2017,86,,,
+"Flamenco, Flamenco",2014,86,,,
+Archipelago,2014,86,,,
+Mysteries of Lisbon,2011,86,,,
+Mademoiselle Chambon,2010,86,,,
+Burma VJ: Reporter i et lukket land,2009,86,,,
+Memories of Murder,2005,86,,,
+The Return,2004,86,,,
+Lilya 4-Ever,2003,86,,,
+Read My Lips,2002,86,,,
+Maiden,2019,86,,,
+Heal the Living,2017,86,,,
+The Girl Without Hands,2017,86,,,
+Tess,1980,86,,,
+The Twilight Samurai,2004,86,,,
+Concert for George,2003,86,,,
+Late Marriage,2002,86,,,
+One Day in September,2000,86,,,
+Blancanieves,2013,86,,,
+Once Upon a Time in Anatolia,2012,86,,,
+Stranger by the Lake,2014,86,,,
+Ten Canoes,2007,86,,,
+Gilles' Wife,2005,86,,,
+Cowards Bend the Knee or The Blue Hands,2004,86,,,
+Merci pour le Chocolat,2002,86,,,
+The Filth and the Fury,2000,86,,,
+"Sick: The Life & Death of Bob Flanagan, Supermasochist",1997,86,,,
+Stranded: I've Come from a Plane That Crashed on the Mountains,2008,86,,,
+At Berkeley,2013,86,,,
+Eden,2015,86,,,
+The Revolution Will Not Be Televised,2003,86,,,
+Wadjda,2013,86,,,
+Elena,2014,86,,,
+Truman,2017,86,,,
+The Secret of Kells,2010,86,,,
+Katyn,2009,86,,,
+Coming Home,2015,86,,,
+Shaun the Sheep Movie,2015,86,,,
+"Arabian Nights: Volume 2, The Desolate One",2015,85,,,
+Bamako,2007,85,,,
+Autumn Tale,1999,85,,,
+The Headless Woman,2009,85,,,
+Black Panther,2018,91,t,,t
+Coco,2017,86,t,,t
+Blade Runner 2049,2017,86,,,t
+The Dark Knight,2008,87,t,,t
+Sicario,2015,86,,,t
+Pulp Fiction,1994,96,t,,t
+Schindler's List,1993,95,t,,t
+Room,2015,90,t,,t
+The Grand Budapest Hotel,2014,91,,,t
+Saving Private Ryan,1998,93,,,t
+Whiplash,2014,91,,,t
+Arrival,2016,86,,,t
+Moonlight,2016,100,t,,t
+The Godfather: Part II,1974,93,,,t
+Pan's Labyrinth,2006,100,,,t
+The Witch,2016,87,t,,t
+Apocalypse Now,1979,96,,,t
+Psycho,1960,99,,,t
+No Country for Old Men,2007,94,t,,t
+Toy Story,1995,97,,,t
+Alien,1979,92,,,t
+Eternal Sunshine of the Spotless Mind,2004,92,,,t
+Mudbound,2017,88,t,,t
+Taxi Driver,1976,96,t,,t
+L.A. Confidential,1997,93,,,t
+Her,2013,93,t,,t
+There Will Be Blood,2007,95,,,t
+The Social Network,2010,97,,,t
+12 Angry Men,1957,98,,,t
+Lincoln,2012,90,t,,t
+Manchester by the Sea,2016,98,,t,t
+God's Own Country,2017,88,t,,t
+Trainspotting,1996,87,,,t
+Bridge of Spies,2015,86,,,t
+Zero Dark Thirty,2012,96,,,t
+Hell or High Water,2016,91,t,,t
+Ratatouille,2007,97,,,t
+12 Years a Slave,2013,98,,,t
+The Terminator,1984,87,,,t
+Finding Nemo,2003,93,,,t
+Blue Is the Warmest Color,2013,91,t,,t
+WALL-E,2008,96,,,t
+Almost Famous,2000,93,,,t
+Looper,2012,87,,,t
+Toy Story 3,2010,94,,,t
+Shrek,2001,87,,,t
+The Little Mermaid,1989,91,,,t
+American Hustle,2013,92,,,t
+A Ghost Story,2017,87,,t,t
+Gravity,2013,97,,,t
+The Truman Show,1998,92,,,t
+Mystic River,2003,87,,,t
+Four Weddings and a Funeral,1994,86,,t,t
+Beauty and the Beast,1991,97,,,t
+Dallas Buyers Club,2013,87,t,,t
+Little Women,1994,90,t,,t
+A Fantastic Woman,2017,89,,,t
+Lost in Translation,2003,92,,,t
+Children of Men,2006,88,,,t
+The Lives of Others,2006,92,t,,t
+Loveless,2017,89,,,t
+The Tree of Life,2011,88,,,t
+Blue Valentine,2010,86,t,,t
+Carrie,1976,88,t,t,t
+Argo,2012,89,,,t
+Selma,2014,91,,,t
+The King's Speech,2010,91,t,,t
+The LEGO Movie,2014,87,,,t
+The Handmaiden,2016,88,,t,t
+The Bourne Ultimatum,2007,89,,,t
+Unforgiven,1992,88,,,t
+Chicago,2002,86,,,t
+West Side Story,1961,89,,t,t
+Boyhood,2014,100,t,,t
+Citizen Kane,1941,100,,,t
+Million Dollar Baby,2004,90,,,t
+Rear Window,1954,100,,,t
+Deliverance,1972,86,t,,t
+Spider-Man 2,2004,87,,,t
+Carol,2015,97,t,,t
+Rushmore,1998,90,,,t
+Sideways,2004,96,,,t
+The Master,2012,89,t,,t
+Spartacus,1960,90,,,t
+Juno,2007,86,,,t
+The Great Escape,1963,90,,t,t
+Vertigo,1958,100,,,t
+Locke,2014,86,t,,t
+Kubo and the Two Strings,2016,87,,,t
+Moneyball,2011,90,,,t
+Steve Jobs,2015,86,,,t
+The China Syndrome,1979,85,,,t
+The Birds,1963,90,,,t
+The Fugitive,1993,90,,,t
+American Graffiti,1973,98,,,t
+The Graduate,1967,87,t,,t
+Singin' in the Rain,1952,100,,,t
+Master and Commander: The Far Side of the World,2003,86,,,t
+Boys Don't Cry,1999,90,,,t
+Brazil,1985,91,,,t
+The English Patient,1996,90,,,t
+The Spectacular Now,2013,86,t,,t
+Sense and Sensibility,1995,87,,,t
+Some Like It Hot,1959,99,,t,t
+Crazy Heart,2009,87,,,t
+Howards End,1992,92,t,,t
+127 Hours,2010,86,,,t
+Face/Off,1997,86,,,t
+Paterson,2016,92,,t,t
+Thelma & Louise,1991,91,,t,t
+Barry Lyndon,1975,92,,,t
+Foxcatcher,2014,85,,,t
+Traffic,2000,89,,,t
+Raging Bull,1980,92,,,t
+Leaving Las Vegas,1995,86,,t,t
+Michael Clayton,2007,86,,,t
+Chinatown,1974,95,,,t
+North by Northwest,1959,100,,,t
+Dog Day Afternoon,1975,90,,,t
+Cool Hand Luke,1967,94,,,t
+Captain Phillips,2013,87,,,t
+The Piano,1993,91,,,t
+Rosemary's Baby,1968,98,,,t
+Network,1976,87,t,,t
+Bullitt,1968,87,,,t
+Let the Right One In,2008,86,,,t
+This Is Spinal Tap,1984,94,,,t
+Winter's Bone,2010,93,t,,t
+Inside Llewyn Davis,2013,95,,t,t
+Eastern Promises,2007,86,,,t
+The Nightmare Before Christmas,1993,86,,,t
+Chicken Run,2000,91,,,t
+Cinderella,1950,88,,,t
+Gosford Park,2001,93,t,,t
+Say Anything...,1989,89,,,t
+A Streetcar Named Desire,1951,97,,,t
+The Descendants,2011,87,,,t
+20th Century Women,2016,87,t,,t
+The Sting,1973,86,,,t
+On the Waterfront,1954,94,,,t
+Being John Malkovich,1999,93,,,t
+Annie Hall,1977,94,,,t
+A Separation,2011,96,t,,t
+Shakespeare in Love,1998,90,,,t
+The Right Stuff,1983,94,,,t
+Frances Ha,2013,86,t,,t
+The Remains of the Day,1993,88,,,t
+Drag Me to Hell,2009,87,,,t
+"Crouching Tiger, Hidden Dragon",2000,95,t,,t
+Ghost World,2001,91,,,t
+Fruitvale Station,2013,88,,,t
+Dumbo,1941,98,,,t
+Elle,2016,92,,,t
+Dirty Harry,1971,93,,,t
+Before Sunset,2004,93,,,t
+Columbus,2017,91,,,t
+Milk,2008,88,t,,t
+Do the Right Thing,1989,94,,,t
+In the Name of the Father,1993,87,,,t
+My Summer of Love,2005,86,,,t
+The Bridge on the River Kwai,1957,90,,,t
+"sex, lies, and videotape",1989,90,,,t
+Mean Streets,1973,97,t,,t
+Easy Rider,1969,89,,,t
+Three Kings,1999,86,,,t
+101 Dalmatians,1961,87,,,t
+Anomalisa,2015,91,,,t
+A History of Violence,2005,86,,,t
+The Age of Innocence,1993,92,,,t
+The Great Beauty,2013,89,,,t
+The Searchers,1956,96,,,t
+The Artist,2011,92,,,t
+All About Eve,1950,100,,,t
+Short Term 12,2013,86,,t,t
+Drugstore Cowboy,1989,86,,,t
+Sling Blade,1996,88,,,t
+Adaptation.,2002,87,,,t
+Tangerine,2015,89,,,t
+Bonnie and Clyde,1967,89,t,,t
+The Crying Game,1992,93,,,t
+Days of Heaven,1978,95,,,t
+Corpse Bride,2005,87,,,t
+An Education,2009,88,t,,t
+Charade,1963,86,,t,t
+Pinocchio,1940,100,,,t
+The Last Picture Show,1971,95,,,t
+The Insider,1999,87,,,t
+Rebel Without a Cause,1955,90,,,t
+Moonstruck,1987,87,,t,t
+Capote,2005,91,,,t
+Before Midnight,2013,96,,,t
+The Conversation,1974,88,,t,t
+The Third Man,1949,99,t,,t
+45 Years,2015,96,,,t
+Sleeping Beauty,1959,89,,,t
+Animal Kingdom,2010,87,,,t
+Enter the Dragon,1973,87,,,t
+Diner,1982,86,,,t
+Night of the Living Dead,1968,92,,t,t
+High Noon,1952,91,,,t
+The Constant Gardener,2005,86,,t,t
+The Apartment,1960,96,,,t
+The Diary of a Teenage Girl,2015,90,,,t
+Babe,1995,87,,,t
+El Dorado,1967,89,,,t
+Hunger,2008,86,,,t
+Take Shelter,2011,89,,,t
+The Bad News Bears,1976,87,,,t
+In the Loop,2009,87,,,t
+Blow-Up,1966,86,,,t
+Five Easy Pieces,1970,89,,,t
+Bambi,1942,94,,,t
+King Kong,1933,93,,,t
+Election,1999,86,,t,t
+Tootsie,1982,91,,,t
+Toni Erdmann,2016,95,,,t
+Parenthood,1989,86,,,t
+Son of Saul,2015,94,,,t
+Rachel Getting Married,2008,86,,,t
+From Here to Eternity,1953,89,,,t
+Love & Friendship,2016,90,,t,t
+Nebraska,2013,90,,,t
+All Is Lost,2013,90,,t,t
+The Love Witch,2016,86,,t,t
+Naked,1993,88,,,t
+Ordinary People,1980,90,,t,t
+Certain Women,2016,86,,,t
+A Little Princess,1995,87,,t,t
+Don't Think Twice,2016,86,t,,t
+Double Indemnity,1944,97,,,t
+To Die For,1995,90,,,t
+Giant,1956,88,,,t
+The Straight Story,1999,90,,,t
+Driving Miss Daisy,1989,86,,,t
+Badlands,1973,95,,,t
+Happy-Go-Lucky,2008,87,,,t
+Beginners,2011,85,,,t
+Once,2007,91,,,t
+Wallace & Gromit: The Curse of the Were-Rabbit,2005,90,,,t
+Waking Life,2001,86,,,t
+The Queen,2006,94,,,t
+Letters from Iwo Jima,2006,91,,,t
+Half Nelson,2006,88,,,t
+After Hours,1985,93,,,t
+Out of Sight,1998,88,,,t
+Amour,2012,96,,,t
+The Manchurian Candidate,1962,96,,,t
+The Maltese Falcon,1941,98,,,t
+Being There,1979,87,,,t
+Hedwig and the Angry Inch,2001,88,,,t
+The Kids Are All Right,2010,90,,,t
+Patton,1970,94,,,t
+Leviathan,2014,94,,,t
+Volver,2006,87,,,t
+The Player,1992,89,,,t
+Manhattan,1979,87,,,t
+Song of the Sea,2014,89,,,t
+Touch of Evil,1958,100,,,t
+The Wild Bunch,1969,97,,,t
+Marjorie Prime,2017,86,,t,t
+All Quiet on the Western Front,1930,94,,,t
+Top Five,2014,86,,,t
+United 93,2006,93,,,t
+"Two Days, One Night",2014,92,,,t
+The White Ribbon,2009,86,,,t
+The Squid and the Whale,2005,86,,t,t
+About Schmidt,2002,88,,,t
+Get Shorty,1995,86,,,t
+House of Flying Daggers,2004,92,,,t
+The Man Who Shot Liberty Valance,1962,96,,,t
+Mustang,2015,86,,,t
+Dead Ringers,1988,90,,t,t
+In the Bedroom,2001,89,,,t
+The Odd Couple,1968,89,,,t
+Strangers on a Train,1951,91,t,,t
+It Happened One Night,1934,90,,,t
+Stagecoach,1939,95,,,t
+The Grapes of Wrath,1940,97,,,t
+Beasts of the Southern Wild,2012,89,,,t
+Shadow of a Doubt,1943,96,,,t
+Under the Shadow,2016,87,t,,t
+The Treasure of the Sierra Madre,1948,100,,,t
+Nashville,1975,98,,,t
+A Simple Plan,1998,86,,t,t
+Frankenstein,1931,94,,,t
+The Best Years of Our Lives,1946,94,,,t
+Assault on Precinct 13,1976,92,,,t
+The Station Agent,2003,85,,,t
+The Sweet Hereafter,1997,93,,t,t
+Breaking Away,1979,94,,,t
+An American in Paris,1951,88,,,t
+All About My Mother,1999,90,,,t
+Hannah and Her Sisters,1986,93,,,t
+Henry V,1989,86,,,t
+Down and Out in Beverly Hills,1986,86,,,t
+Talk to Her,2002,89,,,t
+The Diving Bell and the Butterfly,2007,95,,,t
+Bright Star,2009,85,,,t
+The Hustler,1961,93,,,t
+Shine,1996,90,,,t
+Anatomy of a Murder,1959,96,,,t
+Holy Motors,2012,88,,,t
+Experimenter,2015,86,,,t
+Local Hero,1983,86,,,t
+The Celebration,1998,86,,,t
+Bringing Up Baby,1938,94,,,t
+The Man Who Would Be King,1975,94,,,t
+Stalag 17,1953,87,,,t
+Quiz Show,1994,91,t,,t
+The Past,2013,88,,,t
+Winter Sleep,2014,91,,,t
+Closet Monster,2016,86,,,t
+Welcome to the Dollhouse,1996,87,,,t
+You Can Count on Me,2000,89,,,t
+Kagemusha,1980,88,,,t
+24 Hour Party People,2002,88,,,t
+The End of the Tour,2015,86,t,,t
+Broadcast News,1987,88,,,t
+My Dinner with Andre,1981,87,,,t
+Persepolis,2007,92,,,t
+The Double Life of Veronique,1991,89,,,t
+Secrets & Lies,1996,94,,,t
+Mr. Turner,2014,96,,,t
+The Black Stallion,1979,88,,,t
+Invasion of the Body Snatchers,1956,95,,t,t
+The Last Seduction,1994,88,,t,t
+Aquarius,2016,91,t,,t
+The Last Detail,1973,92,,,t
+Things to Come,2016,91,,,t
+The Miracle Worker,1962,87,,,t
+Women on the Verge of a Nervous Breakdown,1988,88,,,t
+The Damned United,2009,86,,,t
+Neruda,2016,86,t,,t
+American Splendor,2003,93,,,t
+Yi Yi,2000,95,,,t
+A Woman Under the Influence,1974,91,,,t
+Frozen River,2008,86,t,,t
+The Quiet American,2002,87,,,t
+A Star Is Born,1954,92,,,t
+A Mighty Wind,2003,86,,,t
+Night Moves,1975,86,,,t
+Being 17,2016,86,,,t
+Venus,2006,86,,,t
+The Joy Luck Club,1993,87,,,t
+The Madness of King George,1994,92,,,t
+Before Night Falls,2000,89,,,t
+The Triplets of Belleville,2003,94,,,t
+James White,2015,86,,t,t
+The Woman Who Left,2017,86,,,t
+Duck Soup,1933,95,,,t
+Searching for Bobby Fischer,1993,92,,,t
+The Grifters,1990,89,,,t
+Russian Ark,2002,90,,,t
+Krisha,2016,90,t,,t
+Waltz with Bashir,2008,94,,,t
+My Happy Family,2017,89,t,,t
+Little Men,2016,90,t,,t
+Maria Full of Grace,2004,90,,,t
+Reversal of Fortune,1990,95,,,t
+Old Joy,2006,87,,,t
+Young Mr. Lincoln,1939,94,,,t
+35 Shots of Rum,2009,95,,,t
+Samurai Rebellion,1967,93,,,t
+"Distant Voices, Still Lives",1988,88,,,t
+The Wild Child,1970,96,,,t
+Manuscripts Don't Burn,2014,91,,,t
+Passing Strange,2009,88,,,t
+Stand Clear of the Closing Doors,2014,90,,t,t
+Tulpan,2009,91,,,t
+Ballast,2008,87,,t,t
+Momma's Man,2008,87,,,t
+Intolerance,1916,94,,t,t
+The Apostle,1997,87,,,t
+Fresh,1994,86,,,t
+Georgia,1995,86,,,t
+Sound and Fury,2000,88,,,t
+Hoop Dreams,1994,99,,t,t
+The Snapper,1993,87,,,t
+Bloody Sunday,2002,93,,,t
+Children Underground,2001,89,,,t
+Brother's Keeper,1992,95,t,,t
+Turtles Can Fly,2005,88,,,t
+Grizzly Man,2005,90,,,t
+Neil Young: Heart of Gold,2006,88,,,t
+Iraq in Fragments,2006,87,,,t
+Requiem,2006,86,,,t
+No End in Sight,2007,92,,,t
+Trouble the Water,2008,86,,t,t
+Man on Wire,2008,92,,,t
+Dear Zachary: A Letter to a Son About His Father,2008,86,,t,t
+White Material,2010,85,,,t
+Restrepo,2010,88,,,t
+Exit Through the Gift Shop,2010,89,,,t
+Marwencol,2010,86,,,t
+We Were Here,2011,96,,t,t
+Carlos,2010,96,,,t
+Pina,2011,87,,,t
+How to Survive a Plague,2012,89,,,t
+Side by Side,2012,86,,,t
+Apocalypse Now Redux,2001,94,,,t
+Blackfish,2013,87,t,,t
+A Film Unfinished,2010,91,,,t
+The Decline of Western Civilization,1981,95,,t,t
+The Class,2008,95,,,t
+Deliver Us from Evil,2006,89,,,t
+Downhill Racer,1969,93,,,t
+Pete Seeger: The Power of Song,2007,86,,,t
+Project Nim,2011,87,,,t
+The Band Wagon,1953,95,,,t
+A Christmas Tale,2008,88,,,t
+Le Havre,2011,86,,,t
+Lantana,2001,88,,,t
+The Tillman Story,2010,90,,t,t
+The Square,2013,87,t,t,t
+Gregory Crewdson: Brief Encounters,2012,90,,,t
+Living in Oblivion,1995,86,,t,t
+The Cove,2009,87,,,t
+Barbara,2012,89,,,t
+The Interrupters,2011,89,,,t
+Aladdin,1992,89,,,t
+Only Angels Have Wings,1939,89,,,t
+George Washington,2000,86,,,t
+No Man's Land,2001,88,,,t
+American Movie,1999,88,,,t
+The Waiting Room,2012,87,,,t
+The Magnificent Ambersons,1942,96,t,,t
+When We Were Kings,1996,87,,,t
+Duma,2005,86,,,t
+Our Daily Bread,2006,89,,,t
+The Savages,2007,89,,,t
+Gideon's Army,2013,90,,t,t
+Homicide,1991,87,,,t
+Guy and Madeline on a Park Bench,2010,87,,,t
+One False Move,1992,90,,,t
+Inside Job,2010,91,,,t
+Under African Skies,2012,86,,,t
+Cutie and the Boxer,2013,87,t,,t
+Enron: The Smartest Guys in the Room,2005,86,,,t
+Capturing the Friedmans,2003,92,,,t
+4 Little Girls,1997,92,,t,t
+In the Shadow of the Moon,2007,88,,t,t
+Stop Making Sense,1984,92,,t,t
+Vera Drake,2004,87,,,t
+Days of Glory,2006,86,,,t
+These Birds Walk,2013,86,,,t
+The Maid,2009,86,,,t
+The Illusionist,2010,86,,,t
+The Gunfighter,1950,96,,,t
+The Selfish Giant,2013,87,,,t
+Let the Fire Burn,2013,89,,,t
+The Missing Picture,2013,90,,,t
+Life Itself,2014,90,,,t
+"20,000 Days on Earth",2014,86,,t,t
+Force Majeure,2014,90,,,t
+Love Is Strange,2014,86,,,t
+Last Days in Vietnam,2014,90,,t,t
+The Overnighters,2014,92,,,t
+Maidan,2014,89,,,t
+Watchers of the Sky,2014,88,,,t
+Night Will Fall,2014,89,,,t
+Big Men,2014,93,,,t
+Tales of the Grim Sleeper,2014,89,,t,t
+Red Army,2014,87,,,t
+Approaching the Elephant,2015,86,,t,t
+The Second Mother,2015,86,,t,t
+Twinsters,2015,85,t,,t
+Gloria,2014,87,,,t
+Seymour: An Introduction,2015,87,,,t
+Listen to Me Marlon,2015,90,,,t
+Western,2015,92,,,t
+Spotlight,2015,95,,t,t
+Court,2015,86,,,t
+The Forbidden Room,2015,87,,t,t
+Heart of a Dog,2015,88,,,t
+Sherpa,2015,95,,,t
+Weiner,2016,87,,,t
+The Fits,2016,93,,t,t
+De Palma,2016,87,t,,t
+Cameraperson,2016,90,,,t
+Tower,2016,94,,,t
+Newtown,2016,91,t,,t
+Fire at Sea,2016,90,t,,t
+Uncertain,2017,92,,,t
+The Levelling,2017,86,t,,t
+Glory,2017,87,,,t
+Dolores,2017,85,,,t
+Chasing Coral,2017,89,t,,t
+Our Time Will Come,2017,86,,t,t
+City of Ghosts,2017,89,,t,t
+Step,2017,86,,,t
+Dawson City: Frozen Time,2017,88,,,t
+Strong Island,2017,89,t,,t
+Restless Creature: Wendy Whelan,2017,91,t,,t
+Office,2015,87,t,,t
+Jane,2017,90,,,t
+Kaili Blues,2016,88,,,t
+I Am Another You,2017,89,,t,t
+The Departure,2017,88,,t,t
+The Work,2017,88,,,t
+BPM (Beats Per Minute),2017,88,,,t
+Faces Places,2017,96,,,t
+Quest,2017,91,,,t
+Crime + Punishment,2018,91,,,t
+Isle of Dogs,2018,86,,,t
+Love After Love,2018,87,,,t
+Eighth Grade,2018,92,,t,t
+Mountain,2018,86,t,,t
+The Other Side of Hope,2017,87,,,t
+First Reformed,2018,89,,t,t
+The Tale,2018,93,,,t
+Who We Are Now,2018,87,,,t
+Won't You Be My Neighbor?,2018,88,,,t
+Hereditary,2018,90,,t,t
+Foxtrot,2017,91,,,t
+Araby,2018,86,,,t
+Leave No Trace,2018,91,,t,t
+McQueen,2018,88,,t,t
+BlacKkKlansman,2018,87,,,t
+John McEnroe: In the Realm of Perfection,2018,86,,t,t
+Support the Girls,2018,88,,,t
+Western,2018,86,,t,t
+Jane Fonda in Five Acts,2018,91,,,t
+Tea with the Dames,2018,89,,,t
+A Star Is Born,2018,91,,,t
+Free Solo,2018,86,,,t
+Private Life,2018,87,t,,t
+The Hate U Give,2018,86,,,t
+First Man,2018,87,,,t
+The Guilty,2018,87,,,t
+The Waldheim Waltz,2018,86,,,t
+Can You Ever Forgive Me?,2018,90,,,t
+Shirkers,2018,91,t,,t
+Burning,2018,93,t,,t
+Widows,2018,87,,,t
+Roma,2018,98,t,,t
+The Favourite,2018,93,,,t
+Shoplifters,2018,95,,,t
+Happy as Lazzaro,2018,90,t,,t
+Spider-Man: Into the Spider-Verse,2018,90,t,,t
+On Her Shoulders,2018,87,,,t
+They Shall Not Grow Old,2018,94,,,t
+If Beale Street Could Talk,2018,90,,,t
+"Hale County This Morning, This Evening",2018,88,,,t
+Three Colors: Red,1994,100,,,t
+Wrestle,2019,86,,,t
+Apollo 11,2019,91,,,t
+Rolling Thunder Revue: A Bob Dylan Story by Martin Scorsese,2019,89,t,,t
+Three Colors: White,1994,91,,,t
+Three Colors: Blue,1993,88,,,t
